@@ -1,4 +1,4 @@
-/* Cave v0.2
+/* Cave v0.3
  * Cave with corridors, ninjas and one exit game.
  * Author: Kurashov Artem
  * License: GNU GPLv3
